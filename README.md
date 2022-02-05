@@ -1,0 +1,2 @@
+# Pratice-JavaScript
+JavaScript Trainning
